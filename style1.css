@@ -1,0 +1,14 @@
+body{
+    background-image: url('snehithudu.jpg');
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+h1 
+{
+    text-align: center;
+    color: darkred;
+}
+a{
+    background-color: rgb(243, 226, 42);
+}
